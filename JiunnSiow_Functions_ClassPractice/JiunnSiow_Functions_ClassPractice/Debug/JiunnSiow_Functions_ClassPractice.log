@@ -1,0 +1,23 @@
+﻿Build started 7/5/2016 11:56:05 AM.
+     1>Project "E:\LATTC\ClassPractice\JiunnSiow_Functions_ClassPractice\JiunnSiow_Functions_ClassPractice\JiunnSiow_Functions_ClassPractice.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(52): error C2601: 'printNumbers' : local function definitions are illegal
+                 e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(15): this line contains a '{' which has not yet been matched
+     1>e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(64): error C2601: 'countNums' : local function definitions are illegal
+                 e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(15): this line contains a '{' which has not yet been matched
+     1>e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(70): error C2601: 'isEven' : local function definitions are illegal
+                 e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(15): this line contains a '{' which has not yet been matched
+     1>e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(78): error C2601: 'add' : local function definitions are illegal
+                 e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(15): this line contains a '{' which has not yet been matched
+     1>e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(84): error C2601: 'add' : local function definitions are illegal
+                 e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(15): this line contains a '{' which has not yet been matched
+     1>e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(90): error C2601: 'print' : local function definitions are illegal
+                 e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(15): this line contains a '{' which has not yet been matched
+     1>e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(95): fatal error C1075: end of file found before the left brace '{' at 'e:\lattc\classpractice\jiunnsiow_functions_classpractice\jiunnsiow_functions_classpractice\main.cpp(15)' was matched
+     1>Done Building Project "E:\LATTC\ClassPractice\JiunnSiow_Functions_ClassPractice\JiunnSiow_Functions_ClassPractice\JiunnSiow_Functions_ClassPractice.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.17
