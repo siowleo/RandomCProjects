@@ -1,7 +1,7 @@
 //Jiunn Siow
 //07-11-2016
 //Payroll lab assignment
-
+//kk
 #include<iostream>
 using namespace std;
 
